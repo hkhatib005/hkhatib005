@@ -1,31 +1,6 @@
 # Hi, I'm Hatem 👋
 
-<table>
-<tr>
-<td valign="top">
-<img src="https://raw.githubusercontent.com/hkhatib005/hkhatib005/main/assets/ascii-face.svg" width="280" alt="ascii portrait" />
-</td>
-<td valign="top">
-
-```
-hatem@github
-------------
-Role: ............ Software Engineering Intern
-Host: ............ Walmart Global Tech
-Education: ....... B.S. CS, CUNY '27
-Editor: .......... VS Code
-
-Languages: ....... Java, Python, C++, JS, SQL
-Frameworks: ...... Spring Boot, React, Node.js
-Cloud & Data: .... AWS, PostgreSQL, Redis
-
-Currently: ....... Walmart Global Tech
-Previously: ...... JPMorgan Chase & Co.
-```
-
-</td>
-</tr>
-</table>
+Software Engineering Intern at **Walmart Global Tech**, CS student at CUNY Staten Island (May 2027), previously at **JPMorgan Chase**. I like shipping full, working products — six of the projects below are live or fully functional, not just repos.
 
 ---
 
@@ -44,6 +19,7 @@ Previously: ...... JPMorgan Chase & Co.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -52,11 +28,29 @@ Previously: ...... JPMorgan Chase & Co.
 
 ### Featured Projects
 
-| Project | Description | Stack | Demo |
-|---------|-------------|-------|------|
-| **[Dolphin Planner](https://github.com/hkhatib005/Dolphin-Planner)** | Full-stack course planner adopted by 500+ students at CUNY Staten Island — scheduling, catalog search, conflict detection, Claude-generated professor summaries | React, Node.js, SQLite, Claude API | [Live](https://dolphin-planner.onrender.com) |
-| **[AI Code Review Bot](https://github.com/hkhatib005/ai-code-review-bot)** | GitHub Action that reviews every pull request automatically — pulls the diff, sends it to Claude, posts inline comments | Python, Flask, Claude API, GitHub Actions | [Live](https://ai-review-dashboard-urro.onrender.com) |
-| **[Real-Time Stock Pipeline](https://github.com/hkhatib005/stock-pipeline)** | Data pipeline ingesting live stock prices every 60s — queued in Redis, persisted to PostgreSQL, served through a REST API with a live dashboard | Python, Redis, PostgreSQL, Flask | — |
+**[Dolphin Planner](https://github.com/hkhatib005/Dolphin-Planner)** — [Live](https://dolphin-planner.onrender.com)
+Course-planning tool for CUNY Staten Island, in active use by 500+ students. Weekly schedule builder with a server-side conflict-detection algorithm, searchable course catalog, and professor reviews with Claude-generated summaries.
+`React` `Node.js/Express` `SQLite` `Claude API`
+
+**[DealBox](https://github.com/hkhatib005/Dealbox)**
+Wholesale real-estate deal-matching platform. Wholesalers submit "buy boxes" (price range, location, deal type) and every incoming property is auto-matched against them in real time. JWT-based auth with wholesaler/admin roles, a nationwide Leaflet map view, and an admin dashboard for managing users and listings.
+`React` `Flask` `SQLAlchemy` `JWT`
+
+**[Park Ave Jewelers](https://github.com/hkhatib005/Park-Ave-Repo)**
+Full-stack e-commerce storefront built for a real client. Product catalog, Stripe Checkout for payments, Google Sign-In, and an admin dashboard for managing orders and inventory.
+`React/Vite` `Express` `SQLite` `Stripe` `Google OAuth`
+
+**[AI Code Review Bot](https://github.com/hkhatib005/ai-code-review-bot)** — [Live dashboard](https://ai-review-dashboard-urro.onrender.com)
+GitHub Action that reviews every pull request automatically: pulls the diff via the GitHub API, sends it to Claude for a structured review pass (quality, security, logic errors), and posts inline comments per file. Paired with a Flask dashboard for review history and stats.
+`Python` `Flask` `Claude API` `GitHub Actions`
+
+**[Real-Time Stock Pipeline](https://github.com/hkhatib005/stock-pipeline)**
+Data pipeline modeled on the ingestion/queueing/serving work done at JPMorgan. Pulls live prices every 60s, queues them in Redis, persists to PostgreSQL, and serves history through a REST API with a live dashboard.
+`Python` `Flask` `Redis` `PostgreSQL`
+
+**[SmartApply](https://github.com/hkhatib005/smartapply)** — [Live](https://smartapply-4etc.onrender.com)
+Paste a resume and a job description, get an AI match score, matched/missing keyword analysis, and a tailored cover letter — built to automate the tedious first pass of internship applications.
+`Python` `Flask` `Claude API`
 
 ---
 
