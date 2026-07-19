@@ -1,25 +1,31 @@
 # Hi, I'm Hatem 👋
 
+<table>
+<tr>
+<td valign="top">
+<img src="https://raw.githubusercontent.com/hkhatib005/hkhatib005/main/assets/ascii-face.svg" width="280" alt="ascii portrait" />
+</td>
+<td valign="top">
+
 ```
-*++++++============-=-===============+++   hatem@github
-++++++========--::--:-:::-=--=========++   ------------
-+++++=======--=**#***%#+=-:---==========   Role: ............ Software Engineering Intern
-++++=======-=+#+-=*+++===+=:----========   Host: ............ Walmart Global Tech
-+++=======-=**=..:==--::. .:-----=======   Education: ....... B.S. CS, CUNY '27
-++=======--=#*--===+===--: .------======   Editor: .......... VS Code
-++======----+=:-+*##*=+##*- :------=====   
-++======----=-.-+***+=:-=-: :-------====   Languages: ....... Java, Python, C++, JS, SQL
-++======------::=*****+-+*=.:-------====   Frameworks: ...... Spring Boot, React, Node.js
-++======----:-++*%#*+++=+#*=:--------===   Cloud & Data: .... AWS, PostgreSQL, Redis
-+++=====-----:=%%%#*+*+:-#%-::-------===   
-+++=====-----::*%@@%%%#*%#=:::-------===   Currently: ....... Walmart Global Tech
-+++======-==: :**##%%@@%=:::::------====   Previously: ...... JPMorgan Chase & Co.
-++=+++=++*###**********=:-----------====   
-++**######%#%%@%%##*++=-.-=:-------=====   
-%%%%%%%@%%%%%%%@@@@%#%#*+==+===-----====   
-%%%%@@%%@%%@%%%%%%%@@@@@@#+%#=**#+*+-===   
-%%%@@@@@@@%%%%@@%@@%%%%###*%@**##@%#*===   
+hatem@github
+------------
+Role: ............ Software Engineering Intern
+Host: ............ Walmart Global Tech
+Education: ....... B.S. CS, CUNY '27
+Editor: .......... VS Code
+
+Languages: ....... Java, Python, C++, JS, SQL
+Frameworks: ...... Spring Boot, React, Node.js
+Cloud & Data: .... AWS, PostgreSQL, Redis
+
+Currently: ....... Walmart Global Tech
+Previously: ...... JPMorgan Chase & Co.
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 

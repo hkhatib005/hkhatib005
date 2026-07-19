@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 312.0 269.1" width="312" height="269">
+<style>
+  text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 13px; white-space: pre; }
+  .face { fill: #1e3a8a; }
+  @media (prefers-color-scheme: dark) { .face { fill: #7aa2f7; } }
+</style>
+<text class="face" x="0" y="13.0" xml:space="preserve">*++++++============-=-===============+++</text>
+<text class="face" x="0" y="27.9" xml:space="preserve">++++++========--::--:-:::-=--=========++</text>
+<text class="face" x="0" y="42.9" xml:space="preserve">+++++=======--=**#***%#+=-:---==========</text>
+<text class="face" x="0" y="57.8" xml:space="preserve">++++=======-=+#+-=*+++===+=:----========</text>
+<text class="face" x="0" y="72.8" xml:space="preserve">+++=======-=**=..:==--::. .:-----=======</text>
+<text class="face" x="0" y="87.7" xml:space="preserve">++=======--=#*--===+===--: .------======</text>
+<text class="face" x="0" y="102.7" xml:space="preserve">++======----+=:-+*##*=+##*- :------=====</text>
+<text class="face" x="0" y="117.6" xml:space="preserve">++======----=-.-+***+=:-=-: :-------====</text>
+<text class="face" x="0" y="132.6" xml:space="preserve">++======------::=*****+-+*=.:-------====</text>
+<text class="face" x="0" y="147.6" xml:space="preserve">++======----:-++*%#*+++=+#*=:--------===</text>
+<text class="face" x="0" y="162.5" xml:space="preserve">+++=====-----:=%%%#*+*+:-#%-::-------===</text>
+<text class="face" x="0" y="177.4" xml:space="preserve">+++=====-----::*%@@%%%#*%#=:::-------===</text>
+<text class="face" x="0" y="192.4" xml:space="preserve">+++======-==: :**##%%@@%=:::::------====</text>
+<text class="face" x="0" y="207.3" xml:space="preserve">++=+++=++*###**********=:-----------====</text>
+<text class="face" x="0" y="222.3" xml:space="preserve">++**######%#%%@%%##*++=-.-=:-------=====</text>
+<text class="face" x="0" y="237.2" xml:space="preserve">%%%%%%%@%%%%%%%@@@@%#%#*+==+===-----====</text>
+<text class="face" x="0" y="252.2" xml:space="preserve">%%%%@@%%@%%@%%%%%%%@@@@@@#+%#=**#+*+-===</text>
+<text class="face" x="0" y="267.1" xml:space="preserve">%%%@@@@@@@%%%%@@%@@%%%%###*%@**##@%#*===</text>
+</svg>
