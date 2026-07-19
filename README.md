@@ -75,8 +75,8 @@
 
 ### GitHub Stats
 
-![Hatem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hkhatib005&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hkhatib005&layout=compact&theme=github_dark&hide_border=true)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/hkhatib005&label=Repos&query=public_repos&color=181717&logo=github&logoColor=white)
+![Followers](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/hkhatib005&label=Followers&query=followers&color=181717&logo=github&logoColor=white)
 
 ---
 
